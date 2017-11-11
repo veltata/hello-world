@@ -6,7 +6,7 @@
 #README легко модифицировать, как на GitHub, так и локально. Ознакомьтесь с руководством по
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), чтобы узнать больше о том, как изменить текст в файле после его создания.
 
-Документирование ваших проектов на GitHub
+[Документирование ваших проектов на GitHub](https://guides.github.com/features/wikis/)
 
 # The largest heading
 ## The second largest heading
