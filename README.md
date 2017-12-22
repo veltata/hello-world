@@ -16,7 +16,7 @@
 
 
 This is [ссылка](https://guides.github.com "курсы") inline link
-[ссылка](https://guides.github.com "курсы") inline link
+[ссылка]( https://veltata.github.io/hello-world/h1.md"курсы") inline link
 
 [This link](https://daringfireball.net/projects/markdown/syntax#link) has no title attribute
 ....(¯'v'¯)
